@@ -1,0 +1,1 @@
+export {AppRouts, SitePath} from "./config/routerConfig"
